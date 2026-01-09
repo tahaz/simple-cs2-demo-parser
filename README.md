@@ -1,4 +1,4 @@
-# convert-tahaz
+# simple-cs2-demo-parser
 
 This repo contains scripts to parse CS2 demo files into CSVs. Contains some helper functions to reduce file size by tick.
 
